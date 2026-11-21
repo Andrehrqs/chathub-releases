@@ -1,18 +1,18 @@
 {
-  "version": "1.2.0",
-  "date": "2026-11-21T22:22:45.061Z",
+  "version": "1.2.1",
+  "date": "2026-11-21T22:44:34.912Z",
   "notes": "Bug fixes and improvements.",
   "files": {
     "arm64": {
-      "url": "https://github.com/Andrehrqs/chathub-releases/releases/download/v1.2.0/ChatHub-1.2.0-arm64.tar.xz",
-      "sha256": "64d69a2171ba163f085d7794049d72ec880f8323827ae10d4f5d53654d1524f2",
-      "size": 80464028
+      "url": "https://github.com/Andrehrqs/chathub-releases/releases/download/v1.2.1/ChatHub-1.2.1-arm64.tar.xz",
+      "sha256": "0efb65b7ccf64624a5033fd167c1c01656c86ea8a85eb243d4f4de594b045c7f",
+      "size": 80468128
     },
     "x64": {
-      "url": "https://github.com/Andrehrqs/chathub-releases/releases/download/v1.2.0/ChatHub-1.2.0-x64.tar.xz",
-      "sha256": "2f4650698d14369769f15d47c2404427437ad3414cec7928295a48a0b3a3cf7f",
-      "size": 89658560
+      "url": "https://github.com/Andrehrqs/chathub-releases/releases/download/v1.2.1/ChatHub-1.2.1-x64.tar.xz",
+      "sha256": "5fd9cd9425f69c2245d28a6f1e5f55882bf9b1b738b06bd395da031ae5c46c33",
+      "size": 89662108
     }
   },
-  "signature": "PXA6JLGyvZmvW5iJ9AajNJpOxb8MmwcotzmGl0PPnjSe3m/1IwvncnN/M8J7gWbzH7ggr94ZWvZ30RcXZ2T+Bw=="
+  "signature": "DTB+E0zeMeFHwRsS1IGBkrelutB6MFXwpPCWTLDJbqj+WeAusBNLw5Puw4KDCXDkJ7Gx92oym59/lLQV6QFdDg=="
 }
