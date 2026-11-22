@@ -1,18 +1,18 @@
 {
-  "version": "1.3.0",
-  "date": "2026-11-21T23:23:21.862Z",
-  "notes": "Bug fixes and improvements.",
+  "version": "1.3.1",
+  "date": "2026-11-22T00:15:07.004Z",
+  "notes": "Fixes tips misread from numeric names; adds 'Not a tip' and a show-totals reset; private messages tab; live preview panel with pop-out.",
   "files": {
     "arm64": {
-      "url": "https://github.com/Andrehrqs/chathub-releases/releases/download/v1.3.0/ChatHub-1.3.0-arm64.tar.xz",
-      "sha256": "7045adac7b6f13e69067d06c63de7497b7e05384ce50ae8d0d1e5126c8d6afdd",
-      "size": 81539156
+      "url": "https://github.com/Andrehrqs/chathub-releases/releases/download/v1.3.1/ChatHub-1.3.1-arm64.tar.xz",
+      "sha256": "4525e268fc96a40b3991f6d2b65554723fce2f14b6c6380adbe560723b204e2a",
+      "size": 81555388
     },
     "x64": {
-      "url": "https://github.com/Andrehrqs/chathub-releases/releases/download/v1.3.0/ChatHub-1.3.0-x64.tar.xz",
-      "sha256": "561cac3c109836afc7429a29fd308aba63a90c6257f18bd65543969068b966c7",
-      "size": 90649108
+      "url": "https://github.com/Andrehrqs/chathub-releases/releases/download/v1.3.1/ChatHub-1.3.1-x64.tar.xz",
+      "sha256": "38c0cd7896e0828fba32a0209aa0462fe1b5744f0bcc431fe3a80e9c348e8236",
+      "size": 90678724
     }
   },
-  "signature": "HhfFtrHWQc5he4iauIEYsmMmXsmQcxt0j2Pfxhh9KpEztpqKgzv2/4sO64c2QSTKm8HBPAp1+pjO9pX8goUyAg=="
+  "signature": "4Aj2br4UWEef78IsjrXT/EfIOCCN0v+nARM7gP7JZwZ/gj2MmlVK75KhtNJwhCEjZ0SflZ831Pl/Lpz7TsjEDw=="
 }
